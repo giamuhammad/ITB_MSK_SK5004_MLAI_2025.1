@@ -81,7 +81,9 @@ flowchart TD
 #### Answer
 
 Data Science adalah bidang interdisipliner yang menggunakan metode ilmiah, proses, algoritma, dan sistem untuk mengekstrak pengetahuan serta wawasan dari data terstruktur maupun tidak terstruktur. Bidang ini menggabungkan teknik dari statistika, ilmu komputer, pembelajaran mesin (machine learning), dan keahlian domain untuk menganalisis, menginterpretasi, dan memvisualisasikan data kompleks guna mendukung pengambilan keputusan. 
-Dhar, V. (2013). "Data Science and Prediction." Communications of the ACM, 56(12), 64-73.
+
+Reference
+- Dhar, V. (2013). "Data Science and Prediction." Communications of the ACM, 56(12), 64-73.
 
 ### b. What are the differences between data, data science, and data scientist?
 #### Answer
@@ -94,6 +96,13 @@ Data science adalah disiplin ilmu yang menggabungkan metode statistika, pemrogra
 
 Data Scientist:
 Data scientist adalah individu yang memiliki keahlian untuk menjalankan seluruh rangkaian proses data science. Tugasnya mencakup merancang algoritma, membangun model prediktif, hingga menerjemahkan hasil analisis menjadi rekomendasi bisnis yang actionable. Seorang data scientist harus menguasai keterampilan teknis (seperti Python/R, SQL, dan machine learning) sekaligus kemampuan komunikasi untuk menjelaskan temuan kompleks dengan bahasa sederhana. Misalnya, mereka mungkin mengembangkan model untuk memprediksi churn pelanggan atau mengoptimalkan rantai pasok berdasarkan data historis. Peran ini sering disebut sebagai "pekerjaan terseksi abad ke-21" karena permintaannya yang tinggi di berbagai industri khususnya pada industri yang sudah berjalan hingga sudah menghasilkan data.
+
+Referece
+- Provost, F., & Fawcett, T. (2013).
+Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking.
+O’Reilly Media.
+- "Data Science: A Comprehensive Overview."
+ACM Computing Surveys, 50(3), 1–42.
 
 ### c. Explain about the four foundational aspects of data science?
 #### Answer
@@ -123,23 +132,19 @@ Data scientist adalah individu yang memiliki keahlian untuk menjalankan seluruh 
 
 - Install some packages:
 
-<img width="587" alt="Install some packges 1" src="https://github.com/user-attachments/assets/e4cdeb44-7f5e-4ace-be78-5f8203d0a9a1" />
-
-<img width="591" alt="Install some packges 1" src="https://github.com/user-attachments/assets/cf3ed48c-3431-4b22-9e6d-b316637a4d1b" />
-
-<img width="572" alt="Install some packges 1" src="https://github.com/user-attachments/assets/6302049d-dec0-450f-aa6c-4d4938a2b835" />
+<img width="587" alt="Install some packges" src="https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/2.png?raw=true" />
 
 - Save information packages to requirements.txt
 
-<img width="646" alt="Save information packages to requriements.txt" src="https://github.com/user-attachments/assets/a5364727-27ee-488d-b863-95f6fe64b57e" />
+<img width="646" alt="Save information packages to requriements.txt" src="https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/3.png?raw=true" />
 
 - create other virtual environment
  
-<img width="584" alt="Create other virtual enviornment" src="https://github.com/user-attachments/assets/09097df3-fe0d-4ba4-94d8-9bb2f21eb58a" />
+<img width="584" alt="Create other virtual enviornment" src="https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/4.png?raw=true" />
 
 - Use requirements.txt to install saved list of packages
 
-<img width="685" alt="Use requirements.txt to install saved list of packages" src="https://github.com/user-attachments/assets/8782a3a8-7251-4742-bf24-5a0e7f33bde9" />
+<img width="685" alt="Use requirements.txt to install saved list of packages" src="https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/5.png?raw=true" />
 
 ### 3. Practicing Python for ML
 
