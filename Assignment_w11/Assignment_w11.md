@@ -78,12 +78,14 @@ flowchart TD
 
 ### 2. Data Science and Python Env
 ### a. Explain in brief about data science
-Answer
+#### Answer
+
 Data Science adalah bidang interdisipliner yang menggunakan metode ilmiah, proses, algoritma, dan sistem untuk mengekstrak pengetahuan serta wawasan dari data terstruktur maupun tidak terstruktur. Bidang ini menggabungkan teknik dari statistika, ilmu komputer, pembelajaran mesin (machine learning), dan keahlian domain untuk menganalisis, menginterpretasi, dan memvisualisasikan data kompleks guna mendukung pengambilan keputusan. 
 Dhar, V. (2013). "Data Science and Prediction." Communications of the ACM, 56(12), 64-73.
 
 ### b. What are the differences between data, data science, and data scientist?
-Answer
+#### Answer
+
 Data:
 Data adalah fakta mentah, angka, teks, gambar, atau sinyal yang belum diolah. Data merupakan elemen fundamental dalam seluruh proses analisis. Data berupa fakta mentah, angka, teks, gambar, atau bahkan rekaman suara yang belum memiliki makna spesifik. Contohnya transaksi harian toko, hasil kuesioner, log aktivitas pengguna aplikasi, atau data sensor dari perangkat IoT. Data bisa terstruktur (seperti tabel database) atau tidak terstruktur (seperti postingan media sosial). Tanpa data, tidak dapat dianalisis, analoginya data seperti bahan baku yang harus diolah lebih lanjut untuk menghasilkan nilai atau insight.
 
@@ -94,7 +96,7 @@ Data Scientist:
 Data scientist adalah individu yang memiliki keahlian untuk menjalankan seluruh rangkaian proses data science. Tugasnya mencakup merancang algoritma, membangun model prediktif, hingga menerjemahkan hasil analisis menjadi rekomendasi bisnis yang actionable. Seorang data scientist harus menguasai keterampilan teknis (seperti Python/R, SQL, dan machine learning) sekaligus kemampuan komunikasi untuk menjelaskan temuan kompleks dengan bahasa sederhana. Misalnya, mereka mungkin mengembangkan model untuk memprediksi churn pelanggan atau mengoptimalkan rantai pasok berdasarkan data historis. Peran ini sering disebut sebagai "pekerjaan terseksi abad ke-21" karena permintaannya yang tinggi di berbagai industri khususnya pada industri yang sudah berjalan hingga sudah menghasilkan data.
 
 ### c. Explain about the four foundational aspects of data science?
-Answer
+#### Answer
 4 Fondasi dari aspek Data Science diantaranya adalah Matematika, Teknologi, Pengetahuan Domain dan Komunikasi Visual Data
 - Matematika:
   Fondasi matematika yang terdiri dari kalkulus, aljabar linier, statistika dan probabilitas. Kalkulus dan aljabar linier memberikan pemahaman dari mekanisme atau metode-metode Machine Learning (dahulu lebih dikenal statistik inferensial untuk jenis parametrik), Kalkulus dan Aljabar linier di Machine Learning umumnya digunakan untuk mencari garis pemisah (khususnya pada kategori klasifikasi) konvergensi dari masalah pengenalan pola, digunakan untuk mencari global optimum dan tidak terjebak dalam lokal optimum. Sedangkan Statistik dan probabilitas membentuk tulang punggung analitis yang memberikan kerangka kerja untuk memahami pola dan ketidakpastian dalam data. Pada beberapa metode machine learning tertentu menggunakan statistika dan probabilitas (contoh: Naive Bayes). Tanpa pemahaman mendalam tentang distribusi data, uji hipotesis, dan regresi, seluruh proses analisis akan kehilangan dasar ilmiahnya. Para praktisi data science harus mampu membedakan antara korelasi dan kausalitas, serta memahami prinsip sampling yang tepat.
@@ -117,27 +119,29 @@ Answer
 
 - Create a virtual environment
 
-<img width="576" alt="Screenshot 2025-05-09 at 17 06 58" src="https://github.com/user-attachments/assets/840a06fb-27b9-4e39-8428-c63491525596" />
+<img width="576" alt="Create a virtual environment" src="https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/1.png?raw=true" />
 
 - Install some packages:
 
-<img width="587" alt="Screenshot 2025-05-09 at 17 06 20" src="https://github.com/user-attachments/assets/e4cdeb44-7f5e-4ace-be78-5f8203d0a9a1" />
+<img width="587" alt="Install some packges 1" src="https://github.com/user-attachments/assets/e4cdeb44-7f5e-4ace-be78-5f8203d0a9a1" />
 
-<img width="591" alt="Screenshot 2025-05-09 at 17 06 37" src="https://github.com/user-attachments/assets/cf3ed48c-3431-4b22-9e6d-b316637a4d1b" />
+<img width="591" alt="Install some packges 1" src="https://github.com/user-attachments/assets/cf3ed48c-3431-4b22-9e6d-b316637a4d1b" />
 
-<img width="572" alt="Screenshot 2025-05-09 at 17 05 49" src="https://github.com/user-attachments/assets/6302049d-dec0-450f-aa6c-4d4938a2b835" />
+<img width="572" alt="Install some packges 1" src="https://github.com/user-attachments/assets/6302049d-dec0-450f-aa6c-4d4938a2b835" />
 
-- Save information to requirements.txt
+- Save information packages to requirements.txt
 
-<img width="646" alt="Screenshot 2025-05-09 at 17 05 03" src="https://github.com/user-attachments/assets/a5364727-27ee-488d-b863-95f6fe64b57e" />
+<img width="646" alt="Save information packages to requriements.txt" src="https://github.com/user-attachments/assets/a5364727-27ee-488d-b863-95f6fe64b57e" />
 
 - create other virtual environment
  
-<img width="584" alt="Screenshot 2025-05-09 at 17 04 50" src="https://github.com/user-attachments/assets/09097df3-fe0d-4ba4-94d8-9bb2f21eb58a" />
+<img width="584" alt="Create other virtual enviornment" src="https://github.com/user-attachments/assets/09097df3-fe0d-4ba4-94d8-9bb2f21eb58a" />
 
-- use requirement.txt to install list of packages
+- Use requirements.txt to install saved list of packages
 
-<img width="685" alt="Screenshot 2025-05-09 at 17 04 35" src="https://github.com/user-attachments/assets/8782a3a8-7251-4742-bf24-5a0e7f33bde9" />
+<img width="685" alt="Use requirements.txt to install saved list of packages" src="https://github.com/user-attachments/assets/8782a3a8-7251-4742-bf24-5a0e7f33bde9" />
 
 ### 3. Practicing Python for ML
+
+https://github.com/giamuhammad/ITB_MSK_SK5004_MLAI_2025.1/blob/main/Assignment_w11/Assignment_w11.ipynb
 
