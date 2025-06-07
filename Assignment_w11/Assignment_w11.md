@@ -98,11 +98,8 @@ Data Scientist:
 Data scientist adalah individu yang memiliki keahlian untuk menjalankan seluruh rangkaian proses data science. Tugasnya mencakup merancang algoritma, membangun model prediktif, hingga menerjemahkan hasil analisis menjadi rekomendasi bisnis yang actionable. Seorang data scientist harus menguasai keterampilan teknis (seperti Python/R, SQL, dan machine learning) sekaligus kemampuan komunikasi untuk menjelaskan temuan kompleks dengan bahasa sederhana. Misalnya, mereka mungkin mengembangkan model untuk memprediksi churn pelanggan atau mengoptimalkan rantai pasok berdasarkan data historis. Peran ini sering disebut sebagai "pekerjaan terseksi abad ke-21" karena permintaannya yang tinggi di berbagai industri khususnya pada industri yang sudah berjalan hingga sudah menghasilkan data.
 
 Referece
-- Provost, F., & Fawcett, T. (2013).
-Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking.
-O’Reilly Media.
-- "Data Science: A Comprehensive Overview."
-ACM Computing Surveys, 50(3), 1–42.
+- Davenport, T. H., & Patil, D. J. (2012). *Data Scientist: The Sexiest Job of the 21st Century.* Harvard Business Review, 90(10), 70–76.
+- Cao, L. (2017). *Data Science: A Comprehensive Overview*. ACM Computing Surveys, 50(3), 1–42.
 
 ### c. Explain about the four foundational aspects of data science?
 #### Answer
@@ -118,6 +115,9 @@ ACM Computing Surveys, 50(3), 1–42.
 
 - Komunikasi Visual Data:
   Komunikasi dan visualisasi data menjadi jembatan antara hasil analisis teknis dengan pengambilan keputusan. Fondasi ini meliputi seni menyajikan temuan kompleks dalam bentuk dashboard, grafik interaktif, atau laporan eksekutif yang mudah dipahami. Kemampuan bercerita dengan data (data storytelling) menjadi pembeda antara analis biasa dengan praktisi kelas dunia, karena nilai sebenarnya dari data science terletak pada kemampuannya memengaruhi keputusan bisnis.
+
+Reference
+- Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking*. O’Reilly Media.
 
 ### d. List link on PyPI for installing JupyterNotebook, Matplotlib, NumPy.
 - Link untuk matplotlib: https://pypi.org/project/matplotlib/
