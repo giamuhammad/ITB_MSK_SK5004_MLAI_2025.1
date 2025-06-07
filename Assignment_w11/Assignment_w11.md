@@ -2,14 +2,11 @@ ID: 20924305
 Name: Gia Muhammad Agusta
 
 # 1. Mind Map and Concept Map:
-## Implementasi Estimasi Debit Air Sungai berbasis *AI* pada sistem *Edge-Computing*
-## Implementation of River Water Debt Estimation AI based on Edge-Computing system
-## Mindmap
+# Implementasi Estimasi Debit Air Sungai berbasis *AI* pada sistem *Edge-Computing*
+# Implementation of River Water Debt Estimation AI based on Edge-Computing system
+# Mindmap
 
----
-config:
-  theme: default
----
+```mermaid
 mindmap
   root((Water Debt<br />Estimation))
     Problem
@@ -48,8 +45,10 @@ mindmap
         Remote Sensing
         High Frequence Doppler
         Edge-Computing
+```
 
-## ConceptMap
+# ConceptMap
+```mermaid
 flowchart TD
     XXX[Hydrology Water Management] ==> A
     A[Water Debt<br />Estimation] --> | Calculate | B(Measurement)
@@ -75,5 +74,4 @@ flowchart TD
     W --> | comparing | X(Accuracy)
     W --> | calculate cost of | Y(Computation)
     W --> | calculate cost of | Z(Infrastructure)
-
-        
+```
