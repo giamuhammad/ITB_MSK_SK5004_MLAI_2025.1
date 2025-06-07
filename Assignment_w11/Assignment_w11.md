@@ -4,7 +4,7 @@ Name: Gia Muhammad Agusta
 ### 1. Mind Map and Concept Map
 ### Judul: Implementasi Estimasi Debit Air Sungai berbasis *AI* pada sistem *Edge-Computing*
 ### Title: Implementation of River Water Debt Estimation AI based on Edge-Computing system
-## Mindmap
+### Mindmap
 
 ```mermaid
 mindmap
